@@ -1,0 +1,2 @@
+Customers(CustomerName:STRING, Age:INTEGER)
+Orders(CustomerName:STRING, Product:STRING, Price: INTEGRER)
